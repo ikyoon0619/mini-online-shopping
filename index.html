@@ -22,39 +22,59 @@
       </header>
 
       <!-- SELECT-GROUP -->
-      <section class="select-group">
+      <section class="btn-group">
         <div class="inner">
-          <div class="select">
-            <img src="./images/blue_t.png" alt="" />
+          <div class="select tshirts">
+            <img
+              src="./images/blue_t.png"
+              alt="btn"
+              data-key="type"
+              data-value="tshirt"
+            />
           </div>
-          <div class="select">
-            <img src="./images/blue_p.png" alt="" />
+          <div class="select pants">
+            <img
+              src="./images/blue_p.png"
+              alt="btn"
+              data-key="type"
+              data-value="pants"
+            />
           </div>
-          <div class="select">
-            <img src="./images/blue_s.png" alt="" />
+          <div class="select skirts">
+            <img
+              src="./images/blue_s.png"
+              alt="btn"
+              data-key="type"
+              data-value="skirts"
+            />
           </div>
-          <div class="select btn btn--blue">Blue</div>
-          <div class="select btn btn--yellow">Yellow</div>
-          <div class="select btn btn--pink">Pink</div>
+          <div
+            class="select blue btn btn--blue"
+            data-key="color"
+            data-value="blue"
+          >
+            Blue
+          </div>
+          <div
+            class="select yellow btn btn--yellow"
+            data-key="color"
+            data-value="yellow"
+          >
+            Yellow
+          </div>
+          <div
+            class="select pink btn btn--pink"
+            data-key="color"
+            data-value="pink"
+          >
+            Pink
+          </div>
         </div>
       </section>
       <!-- ITEM GROUP -->
       <section class="visual">
         <div class="inner">
-          <div class="item-group">
-            <div class="item">
-              <div class="item__image"></div>
-              <div class="item__description"></div>
-            </div>
-            <div class="item">
-              <div class="item__image"></div>
-              <div class="item__description"></div>
-            </div>
-            <div class="item">
-              <div class="item__image"></div>
-              <div class="item__description"></div>
-            </div>
-          </div>
+          <ul class="item-group"></ul>
         </div>
       </section>
     </div>
