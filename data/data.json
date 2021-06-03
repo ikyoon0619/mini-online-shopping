@@ -62,6 +62,34 @@
       "size": "large",
       "color": "blue",
       "image": "./images/blue_s.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "size": "small",
+      "color": "pink",
+      "image": "./images/pink_t.png"
+    },
+    {
+      "type": "pants",
+      "gender": "female",
+      "size": "small",
+      "color": "pink",
+      "image": "./images/pink_p.png"
+    },
+    {
+      "type": "pants",
+      "gender": "male",
+      "size": "large",
+      "color": "yellow",
+      "image": "./images/yellow_p.png"
+    },
+    {
+      "type": "pants",
+      "gender": "male",
+      "size": "large",
+      "color": "blue",
+      "image": "./images/blue_p.png"
     }
   ]
 }
