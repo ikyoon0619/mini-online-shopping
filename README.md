@@ -3,7 +3,12 @@
 ## 💻 과제 내용
 
 Vanilla JS로 미니 온라인 쇼핑몰? 비슷한 것을 만들었습니다.
-![Mini-online-shopping](https://raw.githubusercontent.com/ikyoon0619/mini-online-shopping/master/_assets/main.PNG)
+
+<img src="https://raw.githubusercontent.com/ikyoon0619/mini-online-shopping/master/_assets/main.PNG" width="200">
+
+#### RESULT(필터링)
+
+<img src="https://raw.githubusercontent.com/ikyoon0619/mini-online-shopping/master/_assets/function.PNG" width="200">
 
 ## 💻 과제 기간
 
