@@ -4,16 +4,10 @@
 
 Vanilla JS로 미니 온라인 쇼핑몰? 비슷한 것을 만들었습니다.
 
-<<<<<<< HEAD
-<img src="https://raw.githubusercontent.com/ikyoon0619/mini-online-shopping/master/_assets/main.PNG" width="200">
-
-#### RESULT(필터링)
-
-=======
 <img src="https://raw.githubusercontent.com/ikyoon0619/mini-online-shopping/master/_assets/main.PNG" width="300" />
 
 #### RESULT(필터링)
->>>>>>> 9c5dc18b3c8c564540d3078174bee0d7a8ef6e8a
+
 <img src="https://raw.githubusercontent.com/ikyoon0619/mini-online-shopping/master/_assets/function.PNG" width="200">
 
 ## 💻 과제 기간
